@@ -73,8 +73,8 @@ Systems. In 2018 ACM SIGSAC Conference on Computer and Communications
 Security (CCS ’18), October 15–19, 2018, Toronto, ON, Canada. ACM, New
 York, NY, USA, 15 pages. https://doi.org/10.1145/3243734.3243781"# Full textual citation
  - bib:  # Bibtex key (if any) in your bibliography file
- - url:  # URL to the PDF, try to link to a non-paywall version
- - doi:  # Regular digital object identifier
+ - url:  https://dl.acm.org/doi/pdf/10.1145/3243734.3243781 # URL to the PDF, try to link to a non-paywall version
+ - doi:  https://doi.org/10.1145/3243734.3243781 # Regular digital object identifier
 
 # Don't forget to surround abstract with double quotes
 abstract: "Although the traditional IT security layer provided to Industrial Control Systems offers a great deal of protection, security managers often overlook the possibility of a potential stealthy attacks at the process level. In the paper, \"Truth Will Out: Departure-Based Process-Level Detection of Stealthy Attacks on Control Systems\" the authors bring out a novel approach to detecting stealthy attacks on the control system through a process-aware methodology which they call - PASAD. It enables early detection in the subtle variation of process behavior, thus averting strategic adversaries from maliciously manipulating the industrial process within the noise level. The original implementation for the PASAD algorithm was in Matlab. In this replication, I use Python, and popular visualization library, Matplotlib, to obtain the results claimed."
@@ -102,34 +102,34 @@ language: Python
 
 # For example, the URL of the GitHub issue where review actually occured
 review: 
-  - url: 
+  - url: https://github.com/ReScience/submissions/issues/17
 
 contributors:
-  - name:
-    orcid: 
+  - name: Etienne Roesch
+    orcid: 0000-0002-8913-4173
     role: editor
-  - name:
-    orcid:
+  - name: Gabriel Netz
+    orcid: 
     role: reviewer
-  - name:
+  - name: 
     orcid:
     role: reviewer
 
 # This information will be provided by the editor
 dates:
   - received:  November 1, 2018
-  - accepted:
-  - published: 
+  - accepted:  November 1, 2020
+  - published: May 23, 2021
 
 # This information will be provided by the editor
 article:
-  - number: # Article number will be automatically assigned during publication
-  - doi:    # DOI from Zenodo
-  - url:    # Final PDF URL (Zenodo or rescience website?)
+  - number: 4 # Article number will be automatically assigned during publication
+  - doi:    10.5281/zenodo.4782649 # DOI from Zenodo
+  - url:    https://zenodo.org/record/4782649/files/article.pdf # Final PDF URL (Zenodo or rescience website?)
 
 # This information will be provided by the editor
 journal:
   - name:   "ReScience C"
   - issn:   2430-3658
-  - volume: 4
+  - volume: 7
   - issue:  1
