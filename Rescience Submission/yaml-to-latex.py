@@ -46,7 +46,7 @@ def generate_latex_metadata(filename, article):
         "\\def \\authorsABBRV{{{_.authors_abbrv}}}\n"
         "\\def \\authorsSHORT{{{_.authors_short}}}\n"
         "\\title{{\\articleTITLE}}\n"
-        "\\date{{}}\n"
+        "\\dates{{}}\n"
         "".format(filename=filename, _=article, abstract=abstract))
 
     for author in article.authors:

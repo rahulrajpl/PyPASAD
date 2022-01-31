@@ -1,0 +1,105 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Pasad:2018}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=db2c38aca9736355f8f87bd5c67a5800}{%
+           family={Aoudi},
+           familyi={A\bibinitperiod},
+           given={Wissam},
+           giveni={W\bibinitperiod}}}%
+        {{hash=3aa8532dfaf2567ddd7f3d1b7e95d081}{%
+           family={Iturbe},
+           familyi={I\bibinitperiod},
+           given={Mikel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3e93278ab69c3a5dfc57db76a27db8f0}{%
+           family={Almgren},
+           familyi={A\bibinitperiod},
+           given={Magnus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Toronto, Canada}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{1349ca822b15558f57877d8e11b2f08c}
+      \strng{fullhash}{1349ca822b15558f57877d8e11b2f08c}
+      \strng{bibnamehash}{1349ca822b15558f57877d8e11b2f08c}
+      \strng{authorbibnamehash}{1349ca822b15558f57877d8e11b2f08c}
+      \strng{authornamehash}{1349ca822b15558f57877d8e11b2f08c}
+      \strng{authorfullhash}{1349ca822b15558f57877d8e11b2f08c}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security}
+      \field{isbn}{9781450356930}
+      \field{series}{CCS ’18}
+      \field{title}{Truth Will Out: Departure-Based Process-Level Detection of Stealthy Attacks on Control Systems}
+      \field{year}{2018}
+      \field{pages}{817\bibrangedash 831}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1145/3243734.3243781
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3243734.3243781
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3243734.3243781
+      \endverb
+      \keyw{cyber-physical systems,departure detection,industrial control systems,partial isometry,intrusion detection,singular spectrum analysis,isometry trick,stealthy attacks}
+    \endentry
+    \entry{kaggle}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=46e7e678b087dfdec5bce22f751cc805}{%
+           family={D'Arcy},
+           familyi={D\bibinitperiod},
+           given={Jordan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{46e7e678b087dfdec5bce22f751cc805}
+      \strng{fullhash}{46e7e678b087dfdec5bce22f751cc805}
+      \strng{bibnamehash}{46e7e678b087dfdec5bce22f751cc805}
+      \strng{authorbibnamehash}{46e7e678b087dfdec5bce22f751cc805}
+      \strng{authornamehash}{46e7e678b087dfdec5bce22f751cc805}
+      \strng{authorfullhash}{46e7e678b087dfdec5bce22f751cc805}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Apache License, verison 2.0}
+      \field{title}{Introducing SSA for Time Series Decomposition}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.kaggle.com/jdarcy/introducing-ssa-for-time-series-decomposition
+      \endverb
+      \verb{url}
+      \verb https://www.kaggle.com/jdarcy/introducing-ssa-for-time-series-decomposition
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
