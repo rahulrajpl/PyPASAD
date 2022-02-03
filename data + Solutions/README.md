@@ -1,6 +1,6 @@
 # [Re] Process Aware Stealthy Attack Detection on Industrial Control Systems. #17
 
-This is a python implementation of the original work in the paper
+This is a python implementation of the original matlab work in the paper
 
 Wissam Aoudi, Mikel Iturbe, and Magnus Almgren. 2018. Truth Will Out:
 Departure-Based Process-Level Detection of Stealthy Attacks on Control
@@ -16,8 +16,6 @@ This submission includes a full replication of the first 5 scenarios in the orig
 
 
 ## Usage
-
-The main code is in the folder "./data + Solutions". The code is released under an MIT License.
 
 Code for each scenario is implemented in Jupyter notebooks, in separate folders containing a notebook alongside the data used to generate the figures discussed in the manuscript.
 

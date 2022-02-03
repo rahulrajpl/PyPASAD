@@ -102,24 +102,22 @@ language: Python
 
 # For example, the URL of the GitHub issue where review actually occured
 review: 
-  - url: 
+  - url: https://github.com/ReScience/submissions/issues/17
 
 contributors:
-  - name:
-    orcid: 
+  - name: Etienne B. Roesch
+    orcid: https://orcid.org/0000-0002-8913-4173
     role: editor
-  - name:
-    orcid:
+  - name: Jaime Arias
     role: reviewer
-  - name:
-    orcid:
+  - name: Gabriel Netz
     role: reviewer
 
 # This information will be provided by the editor
 dates:
-  - received:  November 1, 2018
-  - accepted:
-  - published: 
+  - received: February 16, 2018
+  - accepted: January 18, 2022
+  - published: January 
 
 # This information will be provided by the editor
 article:
